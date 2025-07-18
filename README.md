@@ -17,4 +17,4 @@
   Face ID/Touch ID protection is handled by iOS. No biometric data is stored by the app.
 
   ## Contact
-  Questions? Email: privacy@ugurdemir.ca
+  Questions? Email: ugur@ugurdemir.ca
